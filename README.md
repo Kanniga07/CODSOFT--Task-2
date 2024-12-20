@@ -1,1 +1,1 @@
-# CODSOFT--Task-2
+The Minimax algorithm is used in this AI-powered Tic-Tac-Toe game to provide the best possible gameplay. Using a 3x3 board, the player competes against the AI as "X" and the AI as "O." While the AI determines the optimal move to increase its chances of victory, players input their moves by choosing row and column numbers. The game looks for a winner or a tie if the board is full after every play. By considering every possible consequence before acting, the AI's decision-making assures competitive gameplay and presents a clever and difficult opponent.
